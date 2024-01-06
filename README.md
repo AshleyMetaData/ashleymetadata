@@ -1,8 +1,9 @@
-![Orange Ebb and Flow Abstract LinkedIn Banner (2)](https://github.com/AshleyMetaData/ashleysomereville/assets/143841434/1687543d-ecd4-49d5-8161-f462f729dcd1)
+
+![Orange Ebb and Flow Abstract LinkedIn Banner (2)](https://github.com/AshleyMetaData/ashleymetadata/assets/143841434/fda52dbd-ceed-4a5d-b62b-a0ecebb8faef)
 
 <h1 align="center">👋, I'm Ashley Somereville</h1>
 <h3 align="center">A passionate Data Analyst/Data Scientist from Orlando, FL</h3>
-<img src="https://github.com/AshleyMetaData/ashleysomereville/assets/143841434/53710dfa-78fd-43ad-a8e0-52934a4aad99" align="right" width="400" height="400">
+<img src="https://github.com/AshleyMetaData/ashleymetadata/assets/143841434/09f40e27-731d-46a8-b694-621786ee1a04" align="right" width="400" height="400">
 
 
 
