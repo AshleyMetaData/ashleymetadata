@@ -7,7 +7,7 @@
 
 
 
-- 🔭 I’m currently working on [Movie Database Analysis](https://www.datascienceportfol.io/AshleySomereville)
+- 🔭 I’m currently working on [Movie Database Analysis](https://ashleymetadata.wixsite.com/ashley-somereville)
 
 - 🌱 I’m currently learning **Python, Power BI, and Machine Learning/AI Algorithms**
 
@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **United Airlines Flight Analysis**
 
-- 👨‍💻 All of my projects are available at [https://www.datascienceportfol.io/AshleySomereville](https://www.datascienceportfol.io/AshleySomereville)
+- 👨‍💻 All of my projects are available at [(https://ashleymetadata.wixsite.com/ashley-somereville)](https://ashleymetadata.wixsite.com/ashley-somereville)
 
 - 💬 Ask me about **SQL, Tableau**
 
