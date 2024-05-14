@@ -1,4 +1,3 @@
-![Alt text](storage/emulated/0/Pictures/Canva/Boarding Pass Party Facebook Cover_20240514_012704_0000.png)
 
 
 <h1 align="center">Hi 👋, I'm Ashley!</h1>
